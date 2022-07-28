@@ -12,7 +12,7 @@ public class day1 {
 	@AfterTest
 	public void lastexecution()
 	{
-		System.out.println("I will execute last");
+		System.out.println("chnage ");
 		
 	}
 	@Test
